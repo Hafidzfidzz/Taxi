@@ -1,0 +1,7 @@
+D:\18.11.2255\Taxi\LatihanMemberKelas\LatihanMemberKelas\obj\Debug\LatihanMemberKelas.csprojAssemblyReference.cache
+D:\18.11.2255\Taxi\LatihanMemberKelas\LatihanMemberKelas\obj\Debug\LatihanMemberKelas.csproj.CoreCompileInputs.cache
+D:\18.11.2255\Taxi\LatihanMemberKelas\LatihanMemberKelas\bin\Debug\LatihanMemberKelas.exe.config
+D:\18.11.2255\Taxi\LatihanMemberKelas\LatihanMemberKelas\bin\Debug\LatihanMemberKelas.exe
+D:\18.11.2255\Taxi\LatihanMemberKelas\LatihanMemberKelas\bin\Debug\LatihanMemberKelas.pdb
+D:\18.11.2255\Taxi\LatihanMemberKelas\LatihanMemberKelas\obj\Debug\LatihanMemberKelas.exe
+D:\18.11.2255\Taxi\LatihanMemberKelas\LatihanMemberKelas\obj\Debug\LatihanMemberKelas.pdb
